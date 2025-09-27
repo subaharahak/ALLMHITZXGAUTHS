@@ -209,7 +209,7 @@ async def handle_cc_check(update: Update, context: ContextTypes.DEFAULT_TYPE, ga
         f"[↯] 𝘾𝘼𝙍𝘿 𝘾𝙃𝙀𝘾𝙆 𝙎𝙏𝘼𝙏𝙐𝙎\n\n"
         f"[↯] 𝙎𝙩𝙖𝙩𝙪𝙨 ↯ 𝙋𝙧𝙤𝙘𝙚𝙨𝙨𝙞𝙣𝙜 %s\n"
         f"[↯] 𝙂𝘼𝙏𝙀 ↯ {gateway_name.upper()}\n"
-        f"[↯] 𝘿𝙀𝙑   ↯ mhitzxg 
+        f"[↯] 𝘿𝙀𝙑   ↯ mhitzxg\n"
         f"━━━━━━━━━━━━━━━━━━━"
     )
     processing_msg = await update.message.reply_text(base_text % processing_frames[0])
