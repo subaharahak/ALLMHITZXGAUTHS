@@ -30,7 +30,7 @@ DEV_CHANNEL_URL = "https://t.me/mhitzxg" #change it your username
 HYPERLINK_URL = "https://t.me/mhitzxg" #change it and add your youser name 
 USERS_FILE = 'users.json' #do not change it 
 CODES_FILE = 'codes.json'#do not change it aslo 
-FREE_MINUTES = 60 #i set to 60 minutes you can change it 
+FREE_MINUTES = 6000 #i set to 60 minutes you can change it 
 BOT_NAME = "MHITZXG AUTH" #your bot name [ Add stylish Font ] 
 BOT_FONT = "𝘼𝙐𝙏𝙃 𝙂𝘼𝙏𝙀𝙎" #do not change it i set this font this looking baadass 
 
