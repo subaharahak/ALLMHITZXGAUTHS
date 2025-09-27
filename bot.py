@@ -39,11 +39,11 @@ BOT_FONT = "𝘼𝙐𝙏𝙃 𝙂𝘼𝙏𝙀𝙎" #do not change it i set this 
 #step 2 :- Create New Accounts 
 #Step 3 :- You Got Proxy Add Here 
 PROXIES = [
-    "142.111.48.253:7030:mgrthddv:ip1dn0lb1po2", "198.23.239.134:6540:mgrthddv:ip1dn0lb1po2",
-    "45.38.107.97:6014:mgrthddv:ip1dn0lb1po2", "107.172.163.27:6543:mgrthddv:ip1dn0lb1po2",
-    "64.137.96.74:6641:mgrthddv:ip1dn0lb1po2", "154.203.43.247:5536:mgrthddv:ip1dn0lb1po2",
-    "84.247.60.125:6095:mgrthddv:ip1dn0lb1po2", "216.10.27.159:6837:mgrthddv:ip1dn0lb1po2",
-    "142.111.67.146:5611:mgrthddv:ip1dn0lb1po2", "142.147.128.93:6593:mgrthddv:ip1dn0lb1po2",
+    "142.111.48.253:7030:lxgorbup:ero1hqm0ke9s", "198.23.239.134:6540:lxgorbup:ero1hqm0ke9s",
+    "45.38.107.97:6014:lxgorbup:ero1hqm0ke9s", "107.172.163.27:6543:lxgorbup:ero1hqm0ke9s",
+    "64.137.96.74:6641:lxgorbup:ero1hqm0ke9s", "154.203.43.247:5536:lxgorbup:ero1hqm0ke9s",
+    "84.247.60.125:6095:lxgorbup:ero1hqm0ke9s", "216.10.27.159:6837:lxgorbup:ero1hqm0ke9s",
+    "142.111.67.146:5611:lxgorbup:ero1hqm0ke9s", "142.147.128.93:6593:lxgorbup:ero1hqm0ke9s",
 ]
 
 #Api Config [ Main Part Do Not Change Here ] 
