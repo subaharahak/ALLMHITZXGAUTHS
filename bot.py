@@ -332,4 +332,33 @@ def setup_handlers(application: Application):
 
 
 #All Code By mhitzxg | @team_falcone 
+# ---------------- Start Bot ---------------- #
+app = Flask('')
+
+@app.route('/')
+def home():
+    return "Bot is alive!"
+
+def run():
+    app.run(host='0.0.0.0', port=8080)
+
+def keep_alive():
+    t = threading.Thread(target=run)
+    t.start()
+
+keep_alive()
+
+# Start bot with error handling
+def start_bot():
+    while True:
+        try:
+            print("Starting bot...")
+            bot.infinity_polling(timeout=60, long_polling_timeout=60)
+        except Exception as e:
+            print(f"Bot error: {e}")
+            print("Restarting bot in 5 seconds...")
+            time.sleep(5)
+
+if __name__ == '__main__':
+    start_bot()
 
